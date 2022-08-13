@@ -34,9 +34,10 @@ body {
     height: 500px;
     padding: 1rem;
     border-radius:15px;
+    box-shadow: 10px 10px 80px -50px;
 }
 h1 {
-    font-size: 1.36rem;
+    font-size: 1.4rem;
     text-align: center;
     font-family: var(--outfit);
     font-weight: 700;
